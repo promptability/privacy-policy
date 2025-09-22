@@ -1,0 +1,83 @@
+# Promptability AI — Privacy Policy
+
+Last updated: 2025-09-22
+
+This Privacy Policy explains what information Promptability AI (the “Extension”, “we”, “us”) collects, how we use it, and the choices you have. By installing or using the Extension, you agree to this Policy.
+
+If you have any questions, contact us at: promptability.ai@gmail.com
+
+## What This Extension Does
+Promptability AI adds a floating widget to supported AI websites so you can generate and improve prompts and insert them into the site’s input field. The Extension runs only on pages you visit that match the allowed AI domains (e.g., chatgpt.com, claude.ai, gemini.google.com, perplexity.ai, and other similar sites listed in the store listing/manifest).
+
+## Information We Collect
+We collect only the information necessary to provide the Extension’s functionality. Sign‑in is required to use the Extension.
+
+- Selected Text and Page Context (user‑provided)
+  - Text you highlight and choose to send for prompt generation.
+  - Optional page context such as page title and URL at the time you generate a prompt (to improve relevance).
+- Settings and Session History
+  - Feature preferences (e.g., auto-open, input-only), recent generated outputs, and session names/history. These may be cached locally for performance and are associated with your account for syncing and recovery.
+- Authentication Information (required)
+  - We collect your email address and store authentication tokens required to maintain your session (e.g., via Google OAuth). If you create an account with email/password, credentials are handled by our authentication provider and are not stored in the Extension.
+- Prompt Events
+  - We may log non-content events (e.g., that a prompt was generated, copied, or saved) associated to your account to provide history/sync features.
+
+We do not collect: health data, financial information, location, keystroke logging, or your general browsing history. The Extension only operates on the specific websites listed in its permissions.
+
+## How We Use Information
+- Provide and improve the Extension’s core features (generate/improve prompts, insert into input fields, maintain session history) tied to your signed‑in account.
+- Sync your history and settings across devices and restore sessions after sign‑in.
+- Maintain security and prevent abuse.
+
+We do not sell personal information. We do not use information for targeted advertising or user profiling unrelated to the Extension’s single purpose.
+
+## Data Sharing
+We do not sell or share your personal information with third parties for their own marketing.
+
+We may disclose information to service providers acting on our behalf strictly to operate the service, for example:
+- Google/Firebase (authentication, storage, hosting or related Google services)
+- Our API/hosting provider (e.g., servers used to generate prompts or store history)
+
+These providers are bound by contractual obligations to protect your information and use it only for the services we request.
+
+We may disclose information if required by law, legal process, or to protect rights, safety, or the integrity of the service.
+
+## Data Storage and Retention
+- Local cache: Some data (e.g., recent outputs, preferences) may be cached in your browser for performance until you remove the Extension or clear its storage.
+- Account data: Because sign‑in is required, your sessions/history and settings are stored on our servers or with our service providers and retained until you delete them or close your account. We may retain minimal logs for security, debugging, or legal compliance.
+
+## Your Choices and Rights
+- Clear local data: you can remove cached data by resetting the Extension’s storage or removing the Extension.
+- Sign out: you can sign out at any time; core features will be unavailable until you sign in again.
+- Access/Deletion: to request access to or deletion of any account data we store, email promptability.ai@gmail.com from the email address associated with your account.
+
+Depending on your region, you may have additional rights (e.g., under GDPR/UK GDPR/CCPA). We respect applicable rights to access, correction, deletion, portability, and restriction/objection where required by law.
+
+## Security
+We use reasonable technical and organizational measures to protect your information, including transport‑layer encryption (HTTPS) for all network requests and Google OAuth for sign‑in. No method of transmission or storage is 100% secure; please use the Extension responsibly and avoid sending sensitive information you do not wish to process.
+
+## International Transfers
+Our services and providers may operate in countries other than yours. Where required, we rely on appropriate safeguards for cross‑border transfers.
+
+## Children’s Privacy
+The Extension is not directed to children under 13 (or the minimum age required in your jurisdiction). We do not knowingly collect personal information from children.
+
+## Chrome Permissions — Why We Need Them
+- activeTab: Allows interaction with the currently active page after user action so the widget can read your selection and insert the generated prompt.
+- tabs: Used to open/focus relevant pages (e.g., sign‑in, settings) and communicate with the current tab.
+- scripting: Injects the floating widget UI into supported AI sites.
+- contextMenus: Adds a right‑click menu to open the widget for selected text.
+- storage: Saves settings and local session history.
+- identity: Required to authenticate your account (e.g., Google sign‑in) and associate your data with your account.
+- Host permissions (AI sites only): Restricts where the content script runs to supported AI domains (e.g., chatgpt.com, claude.ai, gemini.google.com, perplexity.ai, and similar).
+
+## Remote Code
+We do not execute remote code. All executable code ships with the Extension. We make HTTPS API calls to our backend or trusted providers; no remotely hosted scripts are executed in your browser.
+
+## Changes to This Policy
+We may update this Policy from time to time. We will update the “Last updated” date above and, where required, provide additional notice. Your continued use of the Extension after changes means you accept the updated Policy.
+
+## Contact
+If you have questions, concerns, or requests related to your data, contact us at:
+
+Email: promptability.ai@gmail.com
