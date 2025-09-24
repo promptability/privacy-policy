@@ -65,7 +65,6 @@ The Extension is not directed to children under 13 (or the minimum age required 
 ## Chrome Permissions — Why We Need Them
 - activeTab: Allows interaction with the currently active page after user action so the widget can read your selection and insert the generated prompt.
 - tabs: Used to open/focus relevant pages (e.g., sign‑in, settings) and communicate with the current tab.
-- scripting: Injects the floating widget UI into supported AI sites.
 - contextMenus: Adds a right‑click menu to open the widget for selected text.
 - storage: Saves settings and local session history.
 - identity: Required to authenticate your account (e.g., Google sign‑in) and associate your data with your account.
